@@ -1,2 +1,2 @@
-# InternetOfThings
+# Description:
 Code developed for IoT applications.
